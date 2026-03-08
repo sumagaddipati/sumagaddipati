@@ -1,13 +1,22 @@
 # Hi 👋 I'm Sumalatha Gaddipati
 
 💻 **Software & AI Developer**
+
 🎓 B.Tech ECE — Anurag University
+
 🧠 Passionate about AI, Machine Learning & Computer Vision
 
 ---
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumagaddipati&show_icons=true&theme=tokyonight)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumagaddipati&layout=compact&theme=tokyonight)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumagaddipati&theme=tokyo-night)
 
 ## 🚀 Skills
 
