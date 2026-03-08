@@ -9,11 +9,13 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumagaddipati&show_icons=true&theme=tokyonight)
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumagaddipati&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumagaddipati&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumagaddipati&layout=compact&theme=tokyonight"/>
 
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumagaddipati&theme=tokyo-night)
 
