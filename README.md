@@ -7,17 +7,6 @@
 🧠 Passionate about AI, Machine Learning & Computer Vision
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sumagaddipati&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sumagaddipati&layout=compact&theme=tokyonight)
-
-</p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumagaddipati&theme=tokyo-night)
 
 ## 🚀 Skills
 
