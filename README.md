@@ -85,10 +85,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumagaddipati&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumagaddipati&theme=radical" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=sumagaddipati&show_icons=true&theme=radical" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumagaddipati&theme=radical" />
+</td>
+</tr>
+</table>
 
 ---
 
