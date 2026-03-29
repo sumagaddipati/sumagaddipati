@@ -86,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumalathagaddipati&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumalathagaddipati&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumagaddipati&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumagaddipati&theme=radical" />
 </p>
 
 ---
@@ -104,6 +104,10 @@
   <a href="mailto:sumagaddipati@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://singular-horse-9dc6d1.netlify.app/">
+    <img src="https://img.shields.io/badge/Email-red?logo=portfolio&logoColor=white"/>
+  </a>
+  
 </p>
 
 ---
