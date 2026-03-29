@@ -57,11 +57,5 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumagaddipati&theme=radical&show_icons=true&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sumagaddipati&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumagaddipati&theme=radical&layout=compact)
-
----
 
 ✨ Always building, always learning 🚀
